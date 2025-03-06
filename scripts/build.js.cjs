@@ -41,7 +41,7 @@ for (var i = 0; i < process.argv.length; i++) {
 		js: `/*! For license information please see psychojs-${version}.js.LEGAL.txt */`,
 	},
 	bundle: true,
-	watch: shouldWatchDir,
+	//watch: shouldWatchDir,
 	sourcemap: true,
 	entryPoints: ["src/index.js"],
 	minifySyntax: true,

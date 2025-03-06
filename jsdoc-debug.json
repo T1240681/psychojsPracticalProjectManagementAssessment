@@ -1,0 +1,153 @@
+[
+    {
+        "comment": "",
+        "meta": {
+            "range": [
+                0,
+                40
+            ],
+            "filename": "index.js",
+            "lineno": 1,
+            "columnno": 0,
+            "path": "/Users/tharbisasi/Desktop/psychojsPracticalProjectManagementAssessment/src",
+            "code": {
+                "id": "astnode100000002",
+                "name": "module.exports",
+                "type": "ExportAllDeclaration"
+            }
+        },
+        "undocumented": true,
+        "name": "exports",
+        "longname": "module.exports",
+        "kind": "member",
+        "memberof": "module",
+        "scope": "static"
+    },
+    {
+        "comment": "",
+        "meta": {
+            "range": [
+                41,
+                81
+            ],
+            "filename": "index.js",
+            "lineno": 2,
+            "columnno": 0,
+            "path": "/Users/tharbisasi/Desktop/psychojsPracticalProjectManagementAssessment/src",
+            "code": {
+                "id": "astnode100000004",
+                "name": "module.exports",
+                "type": "ExportAllDeclaration"
+            }
+        },
+        "undocumented": true,
+        "name": "exports",
+        "longname": "module.exports",
+        "kind": "member",
+        "memberof": "module",
+        "scope": "static"
+    },
+    {
+        "comment": "",
+        "meta": {
+            "range": [
+                82,
+                122
+            ],
+            "filename": "index.js",
+            "lineno": 3,
+            "columnno": 0,
+            "path": "/Users/tharbisasi/Desktop/psychojsPracticalProjectManagementAssessment/src",
+            "code": {
+                "id": "astnode100000006",
+                "name": "module.exports",
+                "type": "ExportAllDeclaration"
+            }
+        },
+        "undocumented": true,
+        "name": "exports",
+        "longname": "module.exports",
+        "kind": "member",
+        "memberof": "module",
+        "scope": "static"
+    },
+    {
+        "comment": "",
+        "meta": {
+            "range": [
+                123,
+                167
+            ],
+            "filename": "index.js",
+            "lineno": 4,
+            "columnno": 0,
+            "path": "/Users/tharbisasi/Desktop/psychojsPracticalProjectManagementAssessment/src",
+            "code": {
+                "id": "astnode100000008",
+                "name": "module.exports",
+                "type": "ExportAllDeclaration"
+            }
+        },
+        "undocumented": true,
+        "name": "exports",
+        "longname": "module.exports",
+        "kind": "member",
+        "memberof": "module",
+        "scope": "static"
+    },
+    {
+        "comment": "",
+        "meta": {
+            "range": [
+                168,
+                210
+            ],
+            "filename": "index.js",
+            "lineno": 5,
+            "columnno": 0,
+            "path": "/Users/tharbisasi/Desktop/psychojsPracticalProjectManagementAssessment/src",
+            "code": {
+                "id": "astnode100000010",
+                "name": "module.exports",
+                "type": "ExportAllDeclaration"
+            }
+        },
+        "undocumented": true,
+        "name": "exports",
+        "longname": "module.exports",
+        "kind": "member",
+        "memberof": "module",
+        "scope": "static"
+    },
+    {
+        "comment": "",
+        "meta": {
+            "range": [
+                211,
+                259
+            ],
+            "filename": "index.js",
+            "lineno": 6,
+            "columnno": 0,
+            "path": "/Users/tharbisasi/Desktop/psychojsPracticalProjectManagementAssessment/src",
+            "code": {
+                "id": "astnode100000012",
+                "name": "module.exports",
+                "type": "ExportAllDeclaration"
+            }
+        },
+        "undocumented": true,
+        "name": "exports",
+        "longname": "module.exports",
+        "kind": "member",
+        "memberof": "module",
+        "scope": "static"
+    },
+    {
+        "kind": "package",
+        "longname": "package:undefined",
+        "files": [
+            "/Users/tharbisasi/Desktop/psychojsPracticalProjectManagementAssessment/src/index.js"
+        ]
+    }
+]
